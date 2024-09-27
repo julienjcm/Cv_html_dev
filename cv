@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>CV</title>
+
+
+<style>
+
+  body{
+    background-color: lightblue;
+  }
+
+  h1{
+    color:red;
+    font-style: italic;
+  }
+
+  .date{
+    color:blue;
+  }
+
+  #premiere-date{
+    color: green
+  }
+
+
+
+</style>
+
+</head>
+
+<body>
+
+<h1>Jacomino<br> Julien</h1>
+<br>
+
+<h1>Profil personnel :</h1>
+
+<p> -sérieux et ponctuel <br> -assidu et à l'écoute <br> -motivé et discipliné </p>
+
+<h1>Compétences et savoir-faire </h1>
+
+<p>-linux <br> -html <br> -débian 12 </p>
+
+
+<h1>Cordonnées :</h1>
+
+<address> <a href="tel+33652481895">+33 652481895</a> </address>
+
+
+
+<address>
+<a href="mailto:julienjacomino42@gmail.com">julienjacomino42@gmail.com </a> </address>
+<address> <a href="https://maps.app.goo.gl/ZnZKB2FqPXVMCrrDA">26 impasse du plat du puy Farnay 42320 </a></address>  
+
+<h1>Expérience Professionnelle </h1>
+<p class="date" id="premiere-date"> Décembre 2023 PFMP chez Abicom : </br>
+<br>
+-Mise en place d'un active directory via un bureau à distance, </br>
+création de machine virtuelle sur un esxi, migration de machine virtuel </br> 
+via VMware vsphere </p>
+
+<p class="date"> Mai 2023 PFMP chez Astrée-Software :</p></br>
+<p><br> -maintenance du matériel informatique de l'entreprise (ordinateurs, switch, </br>
+
+routeurs, caméra ip), créations de script powershell </p>
+
+<p class="date">Janvier 2023 PFMP chez Data Automation :</p> 
+
+-Masérisation d'un pc windows préconfiguré à l'environnement observation du support hot line.
+
+<h1>Education </h1>
+
+<p class="date"> 2024/2026 : Bts SIO(service informatique aux organistations à AFIP formations a villeurbanne et en alternance chez Abicom it à Saint-Etienne <br> 2021/2024 : éléve au lycée le marais Sainte Théréèse en bac professionnelle
+système numérique option RISC (réseau informatique et services communiquants) </p> </br>
+
+<h1> Centre d'intérêt</h1>
+
+-course à pied <br> -crossfit <br> -voyages <br> -Ski
+
+</body>
+</html>
+
+
